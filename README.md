@@ -6,36 +6,40 @@ A recent set of overused population-based methods have been published in recent 
 _____________________________________________________________________________________________________________________________
  
 
-% Hunger Games Search (HGS)
-% Visions, Conception, Implementation, Deep Analysis, Perspectives, and Towards Performance Shifts
-% Website of HGS: http://www.aliasgharheidari.com/HGS.html
+ Hunger Games Search (HGS)
+ Visions, Conception, Implementation, Deep Analysis, Perspectives, and Towards Performance Shifts
+ Website of HGS: http://www.aliasgharheidari.com/HGS.html
+_____________________________________________________________________________________________________________________________
 
-%  Yutao Yang and Professor Huiling Chen (citations above 7000) and Ali Asghar Heidari (citations above 4000)
-%  College of Computer Science and Artificial Intelligence, Wenzhou University, Wenzhou, Zhejiang 325035, China
-%  Exceptionally Talented Researcher, Department of Computer Science, School of Computing, National University of Singapore, Singapore
-%  National Elite, Exceptionally Talented Researcher, School of Surveying and Geospatial Engineering, College of Engineering, University of Tehran, Tehran 1439957131, Iran
+ Yutao Yang and Professor Huiling Chen (citations above 7000) and Ali Asghar Heidari (citations above 4000)
+ College of Computer Science and Artificial Intelligence, Wenzhou University, Wenzhou, Zhejiang 325035, China
+ Exceptionally Talented Researcher, Department of Computer Science, School of Computing, National University of Singapore, Singapore
+ National Elite, Exceptionally Talented Researcher, School of Surveying and Geospatial Engineering, College of Engineering, University of Tehran, Tehran 1439957131, Iran
 
-%  Thanks to Professor Amir H Gandomi (citations above 19000)
-%  Faculty of Engineering & Information Technology, University of Technology Sydney, NSW 2007, Australia
+ Thanks to Professor Amir H Gandomi (citations above 19000)
+ Faculty of Engineering & Information Technology, University of Technology Sydney, NSW 2007, Australia
 
-%  Last update: 02-17-2021
+ Last update: 02-17-2021
+_____________________________________________________________________________________________________________________________
 
-%  e-Mail: yutaoyang.style@foxmail.com,
-%  e-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com,
-%  e-Mail (Singapore): aliasgha@comp.nus.edu.sg, t0917038@u.nus.edu
-%---------------------------------------------------------------------------------------------------------------------------
-%  Co-author: Yutao Yang, Huiling Chen(chenhuiling.jlu@gmail.com), Ali Asghar Heidari(as_heidari@ut.ac.ir), Amir H Gandomi
-%---------------------------------------------------------------------------------------------------------------------------
+  E-Mail: yutaoyang.style@foxmail.com, chenhuiling.jlu@gmail.com
+  E-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com 
+  E-Mail (Singapore): aliasgha@comp.nus.edu.sg, t0917038@u.nus.edu
+ --------------------------------------------------------------------------------------------------------------------------
+   Developers: Yutao Yang, Huiling Chen(chenhuiling.jlu@gmail.com), Ali Asghar Heidari(as_heidari@ut.ac.ir), Amir H Gandomi
+ ---------------------------------------------------------------------------------------------------------------------------
 
-% After use, please refer to the main paper:
-% Yutao Yang, Huiling Chen, Ali Asghar Heidari, Amir H Gandomi, 
-% Hunger Games Search: Visions, Conception, Implementation, Deep Analysis, Perspectives, and Towards Performance Shifts
-% Expert Systems With Applications, https://doi.org/10.1016/j.eswa.2021.114864 (Q1, 5-Year Impact Factor: 5.448, H-INDEX: 184)
-%---------------------------------------------------------------------------------------------------------------------------
+ After use, please refer to the main paper:
+ Yang, Y., Chen, H., Heidari, A. A., & Gandomi, A. H. (2021). Hunger Games Search: Visions, Conception, Implementation, Deep Analysis, Perspectives, and Towards Performance Shifts. Expert Systems with Applications, 114864. Elsevier BV. Retrieved from https://doi.org/10.1016%2Fj.eswa.2021.114864
+ 
+ Yutao Yang, Huiling Chen, Ali Asghar Heidari, Amir H Gandomi, 
+ Hunger Games Search: Visions, Conception, Implementation, Deep Analysis, Perspectives, and Towards Performance Shifts
+ Expert Systems With Applications, https://doi.org/10.1016/j.eswa.2021.114864 (Q1, 5-Year Impact Factor: 5.448, H-INDEX: 184)
+ ---------------------------------------------------------------------------------------------------------------------------
 
-%  Researchgate: https://www.researchgate.net/profile/Ali_Asghar_Heidari
-%  Website of HGS: http://www.aliasgharheidari.com/HGS.html
+  Researchgate: https://www.researchgate.net/profile/Ali_Asghar_Heidari
+  Website of HGS: http://www.aliasgharheidari.com/HGS.html
 
-% You can also use and compare with our other new optimization methods: (HHO)-2019- http://www.aliasgharheidari.com/HHO.html
-%                                                                       (SMA)-2020- http://www.aliasgharheidari.com/SMA.htm
+ You can also use and compare with our other new optimization methods: (HHO)-2019- http://www.aliasgharheidari.com/HHO.html
+                                                                       (SMA)-2020- http://www.aliasgharheidari.com/SMA.htm
 

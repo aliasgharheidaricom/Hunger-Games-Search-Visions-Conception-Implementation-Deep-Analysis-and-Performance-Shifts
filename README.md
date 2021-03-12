@@ -1,0 +1,2 @@
+# -Hunger-Games-Search-HGS-Visions-Conception-Deep-Analysis-and-Towards-Performance-Shifts
+Visit: https://aliasgharheidari.com/HGS.html. HGS optimizer is a population-based method with stochastic switching elements that enrich its main exploratory and exploitative behaviors and flexibility of HGS in dealing with challenging problem landscapes. The algorithm has been compared to LSHADE, SPS_L_SHADE_EIG, LSHADE_cnEpSi, SHADE, SADE, MPEDE, and JDE methods.

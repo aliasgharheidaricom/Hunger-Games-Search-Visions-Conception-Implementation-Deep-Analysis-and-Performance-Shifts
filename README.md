@@ -22,11 +22,9 @@ ________________________________________________________________________________
  Last update: 02-17-2021
 _____________________________________________________________________________________________________________________________
 
-  E-Mail: yutaoyang.style@foxmail.com, chenhuiling.jlu@gmail.com
-  E-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com 
-  E-Mail (Singapore): aliasgha@comp.nus.edu.sg, t0917038@u.nus.edu
- --------------------------------------------------------------------------------------------------------------------------
-   Developers: Yutao Yang, Huiling Chen(chenhuiling.jlu@gmail.com), Ali Asghar Heidari(as_heidari@ut.ac.ir), Amir H Gandomi
+   E-Mail for cooperations and developments: as_heidari@ut.ac.ir, aliasghar68@gmail.com 
+  --------------------------------------------------------------------------------------------------------------------------
+   Developers: Yutao Yang, Huiling Chen, Ali Asghar Heidari, Amir H Gandomi
  ---------------------------------------------------------------------------------------------------------------------------
 
  After use, please refer to the main paper:
